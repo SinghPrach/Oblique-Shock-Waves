@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1620567028 source:e:\study\6th sem\hsa\programs\oblique shock- theta vary\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<math.h>
+	<iomanip>
+	<stdlib.h>
+
